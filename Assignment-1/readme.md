@@ -1,2 +1,2 @@
-![Optional Text](mmsyed/master/Haskell/Assignment-1/problems/sc1)
+![Optional Text](../master/Assignment-1/problems/sc1)
 
