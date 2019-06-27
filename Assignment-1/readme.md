@@ -1,2 +1,2 @@
-![Optional Text](../master/Assignment-1/problems/sc1)
+![Optional Text](sc1.png)
 
