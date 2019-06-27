@@ -1,0 +1,19 @@
+:load "/Users/mmsyed/Desktop/CIS352/hw4/RegExp2/Matches2.hs"
+[1 of 2] Compiling RegExp2          ( RegExp2.hs, interpreted )
+[2 of 2] Compiling Matches2         ( /Users/mmsyed/Desktop/CIS352/hw4/RegExp2/Matches2.hs, interpreted )
+Ok, two modules loaded.
+*Matches2> quickCheck prop_equivA
++++ OK, passed 100 tests.
+*Matches2> :load "/Users/mmsyed/Desktop/CIS352/hw4/RegExp2/BuildNfa2.hs"
+[1 of 8] Compiling NfaTypes         ( NfaTypes.hs, interpreted )
+[2 of 8] Compiling RegExp2          ( RegExp2.hs, interpreted )
+[3 of 8] Compiling NfaMisc          ( NfaMisc.hs, interpreted )
+[4 of 8] Compiling DrawNfa          ( DrawNfa.hs, interpreted )
+[5 of 8] Compiling NfaLib           ( NfaLib.hs, interpreted )
+[6 of 8] Compiling Matches2         ( Matches2.hs, interpreted )
+[7 of 8] Compiling ImplementNfa     ( ImplementNfa.hs, interpreted )
+[8 of 8] Compiling BuildNfa2        ( /Users/mmsyed/Desktop/CIS352/hw4/RegExp2/BuildNfa2.hs, interpreted )
+Ok, 8 modules loaded.
+*BuildNfa2> quickCheck prop_equivB
++++ OK, passed 100 tests.
+*BuildNfa2> 

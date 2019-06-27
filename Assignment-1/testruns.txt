@@ -1,0 +1,14 @@
+
+*Main> :r
+Ok, one module loaded.
+*Main> testRun
+convert prop             : +++ OK, passed 100 tests.
+vowel prop               : +++ OK, passed 100 tests.
+disemvowel prop          : +++ OK, passed 100 tests.
+smash prop               : +++ OK, passed 100 tests.
+shift prop 1             : +++ OK, passed 100 tests.
+shift prop 2             : +++ OK, passed 100 tests.
+shift prop 3             : +++ OK, passed 100 tests.
+capitalized prop         : +++ OK, passed 100 tests.
+title prop               : +++ OK, passed 100 tests; 24 discarded.
+*Main> 
