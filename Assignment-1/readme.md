@@ -1,2 +1,2 @@
-![Optional Text](../master/Haskell/Assignment-1/problems/sc1.png)
+![Optional Text](../master/Haskell/Assignment-1/problems/sc1)
 
